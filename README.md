@@ -32,6 +32,14 @@ Final, there will be a csv files including(city_name,name, location, house size,
 [A website with a large number of products](https://www.tmall.com/?ali_trackid=2:mm_26632258_3504122_55934697:1589699369_223_389701381&clk1=4819bf57c8379ef093802b827aa5f2cd&upsid=4819bf57c8379ef093802b827aa5f2cd)
 
 ![images](images/Tmall.png)
+You can get detailed information and comments about the product (including follow-up comments and detailed comment time).
+
+# [JD](JingDong.py)
+[A website with a large number of products](https://www.jd.com/?cu=true&utm_source=baidu-pinzhuan&utm_medium=cpc&utm_campaign=t_288551095_baidupinzhuan&utm_term=0f3d30c8dba7459bb52f2eb5eba8ac7d_0_74b9877e5cfd4962b61e9dfc4c3d5672)
+
+![images](images/JD.png)
+You can get detailed information and comments about the product (including follow-up comments and detailed comment time).
+
 
 
 
