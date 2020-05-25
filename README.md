@@ -46,6 +46,15 @@ You can get detailed information and comments about the product (including follo
 # [Handsome](Handsome.py)
 [A website full of handsome guys](http://www.shuaigepic.com/)
 
+# [EastMoney](EastMoney.py)
+[A website about wealth and people's livelihood data](https://data.eastmoney.com/cjsj/consumerpriceindex.aspx?p=)
+![images](images/east.png)
+
+# [Where you go](getCPIFromEastMoney.py)
+
+[Introduction to various tourist attractions in China](https://data.eastmoney.com/cjsj/consumerpriceindex.aspx?p=)
+![images](images/where.png)
+
 
 
 
