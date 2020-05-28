@@ -55,6 +55,11 @@ You can get detailed information and comments about the product (including follo
 [Introduction to various tourist attractions in China](https://data.eastmoney.com/cjsj/consumerpriceindex.aspx?p=)
 ![images](images/where.png)
 
+# [Movies](movies.py)
+
+[Massive free movie resources](https://dytt8.net/)
+![images](images/movies.png)
+
 
 
 
